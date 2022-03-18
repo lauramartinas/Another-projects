@@ -1,0 +1,10 @@
+hearts 1
+diamonds 2
+clubs 3
+spades queen
+hearts ace
+spades jack
+diamonds king
+diamonds jack
+spades 6
+clubs 5
